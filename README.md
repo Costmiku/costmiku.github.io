@@ -10,6 +10,8 @@ In the meantime, please check the rules before posting. uploading or sending any
 
 ## Status: Up
 
+When the website is up, you can visit it at https://costmiku.net/wphome/
+
 Day	| Times	| Note
 ----------
 Monday | ??:??-??:?? | 
