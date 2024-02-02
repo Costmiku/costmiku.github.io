@@ -8,23 +8,5 @@ In the meantime, please check the rules before posting. uploading or sending any
 
 # ↑ uptime
 
-## Status: Up
-
-When the website is up, you can visit it at https://costmiku.net/wphome/
-
-Day	| Times	| Note
-----------
-Monday | ??:??-??:?? | 
-----------
-Tuesday	| ??:??-??:?? | 
-----------
-Wednesday	| 13:00-(20:00-22:00) | 
-----------
-Thursday | ??:??-??:?? | may vary
-----------
-Friday | (16:30-17:30)-(21:00-23:00) | 
-----------
-Saturday | 12:00-(21:00-23:00) | 
-----------
-Sunday | 12:00-(21:00-23:00) | 
-----------
+## Status: idk
+This website is no longer reporting uptime. For uptime, please use ...
